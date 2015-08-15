@@ -1,0 +1,16 @@
+<!DOCTYPE ui:UiBinder SYSTEM "http://dl.google.com/gwt/DTD/xhtml.ent">
+<ui:UiBinder xmlns:ui="urn:ui:com.google.gwt.uibinder"
+	xmlns:g="urn:import:com.google.gwt.user.client.ui">
+	
+	<ui:with field='res' type='org.tactical.sports.client.resources.Res'/>
+	
+	<g:LayoutPanel ui:field="m_mainPanel">
+		<g:layer>
+    		<g:FlowPanel ui:field="m_animatedPanel">
+	       		<g:FlowPanel ui:field="m_event" styleName="{res.css.event}">
+			     	<g:InlineLabel ui:field="m_text" text="test" styleName="{res.css.gameEventText}" />
+    			</g:FlowPanel>
+			</g:FlowPanel>
+		</g:layer>
+	</g:LayoutPanel>
+</ui:UiBinder> 

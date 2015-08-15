@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+jarsExcludedFromWebInfLib=C\:/Users/Fred/tsports/libs/appengine-testing.jar|C\:/Users/Fred/tsports/libs/mockito-all-1.8.1.jar
+lastWarOutDir=C\:/Dev/projects/tsports/war
+warSrcDir=war
+warSrcDirIsOutput=false

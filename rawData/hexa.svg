@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.0 r9654"
+   sodipodi:docname="Nouveau document 1">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient5258"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop5260" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5246">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop5248" />
+      <stop
+         id="stop5254"
+         offset="0.5"
+         style="stop-color:#000000;stop-opacity:0.49803922;" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop5250" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5211"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#cfdd1d;stop-opacity:0.64532018;"
+         offset="0"
+         id="stop5213" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.959798"
+     inkscape:cx="204.38537"
+     inkscape:cy="917.508"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     showguides="false"
+     inkscape:window-width="1600"
+     inkscape:window-height="838"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2995" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       sodipodi:type="star"
+       style="fill:#e6dc22;fill-opacity:1;fill-rule:evenodd;stroke:none;opacity:1"
+       id="path2993-9"
+       sodipodi:sides="6"
+       sodipodi:cx="206.07112"
+       sodipodi:cy="138.17413"
+       sodipodi:r1="41.42857"
+       sodipodi:r2="35.878197"
+       sodipodi:arg1="-0.024385409"
+       sodipodi:arg2="0.49921337"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 247.48737,137.16398 -19.8333,36.3726 -41.41626,1.01016 -21.58294,-35.36245 19.83331,-36.37261 41.41625,-1.01015 z"
+       transform="matrix(0.9254713,0.02006024,-0.02421374,0.76541756,13.514666,39.967439)"
+       inkscape:export-filename="C:\Dev\projects\tsports\src\org\tactical\sports\client\resources\img\hexaHighlighted.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="star"
+       style="fill:none;stroke:#000000;stroke-width:1.5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path2993"
+       sodipodi:sides="6"
+       sodipodi:cx="206.07112"
+       sodipodi:cy="138.17413"
+       sodipodi:r1="41.42857"
+       sodipodi:r2="35.878197"
+       sodipodi:arg1="-0.024385409"
+       sodipodi:arg2="0.49921337"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 247.48737,137.16398 -19.8333,36.3726 -41.41626,1.01016 -21.58294,-35.36245 19.83331,-36.37261 41.41625,-1.01015 z"
+       transform="matrix(0.89008884,0.01961357,-0.023288,0.74837433,-63.704258,-7.5855821)"
+       inkscape:export-filename="C:\Dev\projects\tsports\src\org\tactical\sports\client\resources\img\hexa.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="star"
+       style="fill:none;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path2985"
+       sodipodi:sides="6"
+       sodipodi:cx="102.02541"
+       sodipodi:cy="114.94062"
+       sodipodi:r1="67.142857"
+       sodipodi:r2="58.14742"
+       sodipodi:arg1="0.78539816"
+       sodipodi:arg2="1.3089969"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="M 149.50259,162.41779 84.647563,179.79564 37.170391,132.31847 54.548241,67.463449 119.40326,50.085597 166.88044,97.562769 z" />
+    <path
+       sodipodi:type="star"
+       style="fill:none;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path2987"
+       sodipodi:sides="6"
+       sodipodi:cx="71.720831"
+       sodipodi:cy="97.768027"
+       sodipodi:r1="61.577892"
+       sodipodi:r2="53.328018"
+       sodipodi:arg1="0.71574359"
+       sodipodi:arg2="1.2393424"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="M 118.18785,138.17413 59.961631,158.2127 13.494613,117.80659 25.253815,57.361926 83.480035,37.323359 129.94705,77.729462 z" />
+    <path
+       sodipodi:type="star"
+       style="fill:none;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path2989"
+       sodipodi:sides="6"
+       sodipodi:cx="137.38075"
+       sodipodi:cy="243.22999"
+       sodipodi:r1="87.929703"
+       sodipodi:r2="76.149357"
+       sodipodi:arg1="-0.74477013"
+       sodipodi:arg2="-0.22117135"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 202.03052,183.631 19.28936,85.78783 -64.64976,59.599 -83.93913,-26.18883 -19.289367,-85.78784 64.649767,-59.599 z" />
+  </g>
+</svg>

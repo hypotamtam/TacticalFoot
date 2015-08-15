@@ -1,0 +1,55 @@
+<!DOCTYPE ui:UiBinder SYSTEM "http://dl.google.com/gwt/DTD/xhtml.ent">
+<ui:UiBinder xmlns:ui="urn:ui:com.google.gwt.uibinder" xmlns:g="urn:import:com.google.gwt.user.client.ui">
+
+	<ui:with field='res' type='org.tactical.sports.client.resources.Res'/>
+	
+	<g:HTMLPanel styleName="{res.css.mainPanel}" width="450px">
+		<g:StackLayoutPanel height="190px">
+			<g:stack>
+				<g:header size="35">Sign in</g:header>
+				<g:LayoutPanel width="441px" height="104px">
+					<g:layer left="20px" width="90px" top="11px" height="18px">
+						<g:InlineLabel text="name" />
+					</g:layer>
+					<g:layer left="88px" top="5px" height="28px" right="20px">
+						<g:TextBox text="" textAlignment="ALIGN_CENTER"
+							ui:field="m_loginNameTextBox" />
+					</g:layer>
+					<g:layer left="20px" width="90px" top="49px" height="18px">
+						<g:InlineLabel text="password" />
+					</g:layer>
+					<g:layer left="88px" top="43px" height="28px" right="20px">
+						<g:PasswordTextBox text="" textAlignment="ALIGN_CENTER"
+							ui:field="m_loginPassTextBox" />
+					</g:layer>
+					<g:layer left="20px" top="81px" height="28px" right="20px">
+						<g:Button text="login" ui:field="m_loginButton" />
+					</g:layer>
+				</g:LayoutPanel>
+			</g:stack>
+			<g:stack>
+				<g:header size="35">Sign up</g:header>
+				<g:LayoutPanel width="441px" height="104px">
+					<g:layer left="20px" width="90px" top="11px" height="18px">
+						<g:InlineLabel text="name" />
+					</g:layer>
+					<g:layer left="88px" top="5px" height="28px" right="20px">
+						<g:TextBox text="" textAlignment="ALIGN_CENTER"
+							ui:field="m_registerNameTextBox" />
+					</g:layer>
+					<g:layer left="20px" width="90px" top="49px" height="18px">
+						<g:InlineLabel text="password" />
+					</g:layer>
+					<g:layer left="88px" top="43px" height="28px" right="20px">
+						<g:PasswordTextBox text="" textAlignment="ALIGN_CENTER"
+							ui:field="m_registerPassTextBox" />
+					</g:layer>
+					<g:layer left="20px" top="81px" height="28px" right="20px">
+						<g:Button text="Create account" ui:field="m_registerButton" />
+					</g:layer>
+				</g:LayoutPanel>
+			</g:stack>
+		</g:StackLayoutPanel>
+		<g:Label styleName="{res.css.errorLabel}" height="54px" ui:field="m_errorLabel" visible="false" />
+	</g:HTMLPanel>
+</ui:UiBinder> 

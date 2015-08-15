@@ -1,0 +1,11 @@
+<!DOCTYPE ui:UiBinder SYSTEM "http://dl.google.com/gwt/DTD/xhtml.ent">
+<ui:UiBinder xmlns:ui="urn:ui:com.google.gwt.uibinder"
+	xmlns:g="urn:import:com.google.gwt.user.client.ui">
+	<ui:style>
+		
+	</ui:style>
+	<g:HTMLPanel ui:field="m_mainPanel">
+		<g:HorizontalPanel ui:field="m_actionPanel" spacing="10" horizontalAlignment="ALIGN_CENTER" verticalAlignment="ALIGN_MIDDLE" visible="false"/>
+		<g:Button text="Validate" ui:field="m_validateButton" visible="false"/>
+	</g:HTMLPanel>
+</ui:UiBinder> 

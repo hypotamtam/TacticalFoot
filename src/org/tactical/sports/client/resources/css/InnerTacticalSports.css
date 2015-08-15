@@ -1,0 +1,92 @@
+@def left-right-margin 20px;
+@def top-bottom-margin 5px;
+
+@sprite .grassBg {
+	gwt-image: "footPGBackground";
+}
+
+.defaulfMargin, .errorLabel, .centerlabel {
+	margin: top-bottom-margin left-right-margin;
+}
+
+.centerlabel, .errorLabel, .emptyListLabel  {
+	text-align: center;	
+	width: 100%;
+}
+
+
+.errorLabel {
+	font-weight: bold;
+	color: red;
+}
+
+.emptyListLabel {
+	color: darkgrey;
+	font-stretch: normal;
+	font-variant: small-caps;
+	font-size: 24px;
+	font-style: italic;
+	font-weight: lighter;
+}
+
+body {
+	background-image: linear-gradient(bottom, white, rgb(76,251,129), rgb(106,168,79));
+	background-image: -o-linear-gradient(bottom, white, rgb(76,251,129), rgb(106,168,79));
+	background-image: -moz-linear-gradient(bottom, white, rgb(76,251,129), rgb(106,168,79));
+	background-image: -webkit-linear-gradient(bottom, white, rgb(76,251,129), rgb(106,168,79));
+	background-image: -ms-linear-gradient(bottom, white, rgb(76,251,129), rgb(106,168,79));
+	
+    background-color: transparent;
+    background-size:100% 600px;
+    background-repeat:no-repeat;
+}
+
+.event {
+	position: absolute;
+	width: 100%;
+	top: 50%;
+	margin-top: -25px;
+	background-image: url("eventBG.png");
+	background-repeat: repeat-x;
+	background-position: center bottom;
+}
+
+.gameEventText {
+	display: block;
+	height: 50px;
+	line-height: 50px;
+	font-size: 36px;
+	font-family: 'Erica One', cursive;
+	text-align: center;
+	color: orangeRed;
+}
+
+@font-face {
+	font-family: 'Ozone';
+	src: url('Ozone.TTF');
+}
+
+.scoreLabel {
+	font-size: 60px;
+	font-family: Ozone;
+}
+
+.mainPanel {
+	margin: 50px auto 20px;
+	padding: top-bottom-margin left-right-margin;
+
+	background-color: white;
+	-webkit-border-radius: 20px;
+	-moz-border-radius: 20px;
+	border-radius: 20px;
+	
+	border: 2px solid Black;
+}
+
+.sportPanel {
+	border: 2px solid Black;
+}
+
+.debug {
+	background-color: Fuchsia;
+}

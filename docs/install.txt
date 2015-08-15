@@ -1,0 +1,7 @@
+Requirements:
+-------------
+
+- Spring STS
+- Google Eclipse plugin
+- GWT Designer
+- IvyDE plugin

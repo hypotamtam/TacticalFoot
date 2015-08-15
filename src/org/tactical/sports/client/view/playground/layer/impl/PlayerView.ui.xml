@@ -1,0 +1,15 @@
+<!DOCTYPE ui:UiBinder SYSTEM "http://dl.google.com/gwt/DTD/xhtml.ent">
+<ui:UiBinder xmlns:ui="urn:ui:com.google.gwt.uibinder"
+	xmlns:g="urn:import:com.google.gwt.user.client.ui">
+	<ui:style>
+		
+	</ui:style>
+	<g:LayoutPanel ui:field="m_layoutPanel">
+		<g:layer>
+			<g:Image ui:field="m_playerImage1" />
+		</g:layer>
+		<g:layer>
+			<g:Image ui:field="m_playerImage2" />
+		</g:layer>
+	</g:LayoutPanel>
+</ui:UiBinder> 

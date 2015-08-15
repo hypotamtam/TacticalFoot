@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ui:UiBinder SYSTEM "http://dl.google.com/gwt/DTD/xhtml.ent">
+<ui:UiBinder xmlns:ui='urn:ui:com.google.gwt.uibinder'
+	xmlns:g='urn:import:com.google.gwt.user.client.ui'>
+	
+    <ui:with field='res' type='org.tactical.sports.client.resources.Res'/>
+    
+	<g:FlowPanel>
+		<g:Label text="New InlineLabel" horizontalAlignment="ALIGN_CENTER" styleName="{res.css.scoreLabel}" ui:field="m_scoreLabel"/>
+	</g:FlowPanel>
+</ui:UiBinder>
